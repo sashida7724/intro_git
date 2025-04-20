@@ -1,2 +1,4 @@
 Gitの練習用ファイル
 リモートリポジトリにpushする
+・git add
+・git commit
